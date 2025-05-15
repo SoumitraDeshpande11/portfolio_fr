@@ -13,8 +13,8 @@ module.exports = {
         background: "#000000",
         foreground: "#FFFFFF",
         primary: {
-          DEFAULT: "#FFFFFF",
-          foreground: "#000000",
+          DEFAULT: "#4F46E5",
+          foreground: "#FFFFFF",
         },
         secondary: {
           DEFAULT: "#333333",
@@ -24,6 +24,10 @@ module.exports = {
           DEFAULT: "#111111",
           foreground: "#FFFFFF",
         },
+        accent: {
+          DEFAULT: "#22C55E",
+          foreground: "#FFFFFF",
+        }
       },
       fontFamily: {
         sans: ["PP Neue Montreal", "system-ui", "sans-serif"],
